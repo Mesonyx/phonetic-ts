@@ -1,7 +1,7 @@
 {
   "name": "phonetic-ts",
   "version": "1.0.0",
-  "description": "A TypeScript update for TomFrost's phonetic.js package. Generates random, pronounceable (but gibberish) words.",
+  "description": "Generates random, pronounceable (but gibberish) words. A TypeScript update for TomFrost's phonetic.js package.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
