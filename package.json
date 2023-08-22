@@ -1,0 +1,32 @@
+{
+  "name": "phonetic-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript update for TomFrost's phonetic.js package. Generates random, pronounceable (but gibberish) words.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mesonyx/phonetic-ts.git"
+  },
+  "keywords": [
+    "phonetic",
+    "syllable",
+    "syllables",
+    "random",
+    "generator",
+    "nonsense"
+  ],
+  "author": "Mesonyx (Adam Templeton <claytemple@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mesonyx/phonetic-ts/issues"
+  },
+  "homepage": "https://github.com/Mesonyx/phonetic-ts#readme",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "ts-md5": "^1.3.1"
+  }
+}
