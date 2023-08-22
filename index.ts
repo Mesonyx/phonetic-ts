@@ -1,7 +1,7 @@
 /*
  * Phonetic
  * Copyright 2013-2016 Tom Shawver
- * Converted to TypeScript by Adam Templeton, 2023
+ * Conversion to TypeScript and removal of crypto dependency -- Adam Templeton, 2023
  */
 
 import { Md5 } from 'ts-md5';
